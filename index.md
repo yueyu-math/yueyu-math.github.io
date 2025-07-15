@@ -1,3 +1,4 @@
 ---
-title:blog
+layout: default
+title: Home
 ---
